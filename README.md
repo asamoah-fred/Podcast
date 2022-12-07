@@ -1,6 +1,6 @@
 # Podcast App
 
-A new Flutter project.
+A podcast app built with flutter and Listen note API (Podcast Search & Directory API).
 
 ## Getting Started
 
